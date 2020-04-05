@@ -1,0 +1,56 @@
+
+
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: midnightblue;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: midnightblue;
+}
+
+img {
+    float: right;
+    width: 200px;
+    height: 250px;
+  }
+
+  
+img {
+    float: right;
+
+  }
+
+  object {
+    float: left;
+
+  }
+
+  video {
+      float: right;
+  }
+
+section {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+  }
+
+  b {
+    color: midnightblue;
+  }
+
+
+article {
+    width: 1000px;
+    border: black 2px solid;
+    margin: 5px;
+}
+article.PDF {
+    width: 100px;
+    display: flex;
+    flex-direction: row
+}
